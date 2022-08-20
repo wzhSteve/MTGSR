@@ -1,2 +1,2 @@
-# TGSR
-Triple-view Graph Structure Representation for Multivariate Long Time-series Forecasting
+# MGSR
+Multi-view Graph Structure Representation for Multivariate Long Time-series Forecasting
