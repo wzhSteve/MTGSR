@@ -1,2 +1,2 @@
 # MTGSR
-Multi-view Graph Structure Representation for Multivariate Long-term Time Series Forecasting
+code for Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting
