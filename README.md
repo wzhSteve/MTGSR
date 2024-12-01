@@ -12,7 +12,6 @@ Published in: IEEE Transactions on Artificial Intelligence 2023
   volume={5},
   number={6},
   pages={2651-2662},
-  keywords={Forecasting;Computational modeling;Predictive models;Task analysis;Feature extraction;Generators;Fluctuations;Long-term time-series forecasting;multivariate time-series forecasting;time-series forecasting},
   doi={10.1109/TAI.2023.3326796}}
 
 ```
